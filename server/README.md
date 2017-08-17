@@ -1,4 +1,4 @@
-##Auth boilerplate
+## Auth boilerplate
 
 Node.js with express server and mongodb. Auth based on JWT tokens and passport strategies.
 
