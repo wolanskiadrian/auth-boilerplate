@@ -1,13 +1,13 @@
-Node.js with express server with mongodb
+##Auth boilerplate
 
-auth with passport strategies boilerplate
+Node.js with express server and mongodb. Auth based on JWT tokens and passport strategies.
 
-TO START: 
+**Before run:**
+Create config.js in root with exported Object with 'secret' key.
 
-create config.js in root with exported Object with 'secret' key.
 
-`e.g.`
-
+```javascript
 module.exports = {
     secret: "<secret-string>"
 }
+```
